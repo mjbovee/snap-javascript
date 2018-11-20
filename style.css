@@ -1,0 +1,15 @@
+/*:root {
+	--lightBG: #ccc;
+	--darkBG: #000;
+}
+
+body {
+	background-color: var(--lightBG);
+	color: var(--darkBG);
+}
+
+.dark {
+	background-color: var(--darkBG);
+	color: var(--lightBG);
+}*/
+
